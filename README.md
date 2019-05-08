@@ -6,6 +6,7 @@ This playground is a submission for the WWDC19 Scholarship and consists of a gam
 ## More
 - This [article on Medium](https://medium.freecodecamp.org/how-i-won-a-scholarship-to-apples-yearly-event-for-the-second-time-f04f5f4636b1) covers the entire process behind the development of this playground.
 - The game is also available on the [App Store](https://itunes.apple.com/us/app/mindblower-the-game/id1460079689?mt=8).
+- There is a [playthrough video on Youtube](https://www.youtube.com/watch?v=xH9cn7BtG8k).
 
 ## Credits
 - "Paradise" by Juno Dreams
