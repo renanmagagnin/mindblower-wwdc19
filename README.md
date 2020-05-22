@@ -11,3 +11,7 @@ This playground is an **accepted** submission for the WWDC19 Scholarship and con
 ## Credits
 - "Paradise" by Juno Dreams
 - The guy at Apple behind the phrase "Write code. Blow minds."
+
+## Other Submissions
+- WWDC20: [Beat](https://github.com/renanmagagnin/beat-wwdc20)
+- WWDC18: [Orbs](https://github.com/renanmagagnin/orbs-wwdc18)
