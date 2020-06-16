@@ -15,3 +15,8 @@ This playground is an **accepted** submission for the WWDC19 Scholarship and con
 ## Other Submissions
 - WWDC20: [Beat](https://github.com/renanmagagnin/beat-wwdc20)
 - WWDC18: [Orbs](https://github.com/renanmagagnin/orbs-wwdc18)
+
+## Screenshots
+![Screenshot1](Screenshot1.jpg)
+![Screenshot2](Screenshot2.jpg)
+![Screenshot3](Screenshot3.jpg)
